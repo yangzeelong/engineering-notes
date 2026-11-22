@@ -10,6 +10,7 @@
 
 | 日期 | 标题 | 主题 |
 |---|---|---|
+| 2026-11-22 | [线程池之前和之后，到底差多少](posts/2026-11-22-pool-before-after.md) | 池化 vs 串行、三个口径、WSL2 的两态陷阱 |
 | 2026-11-21 | [为什么 Windows 上“睡 10 微秒”其实睡 2 毫秒](posts/2026-11-21-windows-timer-granularity.md) | 定时器粒度、自旋 vs 睡眠、一个 36% 的吞吐 bug |
 | 2026-11-20 | [两个 C++ DAG 框架的同形对比：NexusFlow vs ai-pipe](posts/2026-11-20-nexusflow-vs-ai-pipe.md) | 口径统一、复现方法、10.8× 差距的归因 |
 
